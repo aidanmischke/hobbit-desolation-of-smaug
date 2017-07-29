@@ -1,0 +1,309 @@
+/*Website Colour Scheme generated using:<http://colorschemedesigner.com/>.
+dark-orange light-brown dark-brown light-orange very-light-orange
+FF7A00	A26C3B	7D3C00	FFB570	FFE3CA*/
+body {
+	background:#181818;
+	background-image:url(../img/home-bg.jpg);
+	font-family:'Merriweather Sans',sans-serif;
+	color:#FFB570;
+	line-height:150%;
+}
+#logo {
+	background:none;
+	margin:0% 1% -2% 1%;
+	padding:0% 0% 0.5% 0%;
+		width:31%;
+	max-width:315px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+#badge {
+	margin-left: 1%;
+}
+/*Text*/
+p.initial:first-letter {
+	font-size:200%;
+	font-family:'Almendra',serif;
+}
+.center {
+	text-align:center;
+}
+.spacing {
+	line-height: 150%;
+}
+.bold {
+	font-weight:bolder;
+}
+.indent {
+	margin-left: 2%;
+}
+/*Heading*/
+h1,h2,h3,h4 {
+	font-weight:bolder;
+	font-family:'Almendra',serif;
+	color:#FFE3CA;
+}
+h1 {
+	font-size:26pt;
+}
+h2 {
+	font-size:22pt;
+}
+h3 {
+	font-size:18pt;
+}
+h4 {
+	font-size: 14pt;
+}
+/*Gallery*/
+#gallery {
+	max-width:1024px;
+}
+#gallery-description {
+	line-height:150%;
+	text-align:center;
+	font-style:italic;
+}
+.img-center {
+	width:93%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.thumbnail-container {
+	clear:both;
+	max-width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.thumbnail {
+	float:left;
+	margin:1% 1% 1% 0%;
+}
+.cast {
+	float:right;
+	padding:0% 1% 0% 2%;
+	max-width:120px;
+}
+.char {
+	float:left;
+	padding:0% 2% 0% 1%;
+	max-width:120px;
+}
+.img-column {
+	max-width:500px;
+}
+.img-shop {
+	max-width: 200px;
+}
+/*Hall of Fame*/
+/*.hof-thumbnail{}*/
+/*Banner*/
+.banner {
+	clear:both;
+	background:#7A5E41;
+	margin:1%;
+	padding:1%;
+}
+.banner2 {
+	clear:both;
+	background:#7D3C00;
+	padding:0.5%;
+	margin:0% 1%;
+}
+.banner-container {
+	clear:both;
+	margin:1%;
+}
+.banner-half {
+	width:49%;
+	float:left;
+	padding:0.5%;
+		background: #7D3C00;
+}
+/*Navigation (header & footer)*/
+/*The following unordered list code is a copyright of the Max Design website. However it has been adopted for learning and assignment purposes.<http://css.maxdesign.com.au/listamatic/horizontal16.htm>.*/
+.navbar ul {
+	clear:both;
+	margin:0% 0% 1% 0%;
+	padding:0%;
+	list-style-type:none;
+	color:#FFF;
+	width:96%;
+	font:normal 125%;
+	text-align:center;
+}
+li {
+	display:inline;
+}
+li a {
+	background:#7D3C00;
+	text-decoration:none;
+	padding:.2em 1em;
+	border-right:1px solid #FFB570;
+	border-bottom:1px solid #FFB570;
+    font-weight:bolder;
+    line-height: 200%;
+}
+li a:hover {
+	background-color:#A26C3B;
+	color: #FFE3CA;
+}
+/*#header{}#footer{}*/
+.current {
+	color:#7D3C00;
+	background:#FFB570;
+	text-decoration:none;
+    padding:.2em 1em;
+	border-right:1px solid #FFE3CA;
+	border-bottom:1px solid #FFE3CA;
+	font-weight:bolder;
+	line-height: 225%;
+}
+
+.login-nav {
+    float:left;
+    background:#2B2A2A;
+    padding: 0.5%;
+    margin: 1% 1% 1% 1%;
+    border-right:1px solid #FFE3CA;
+    border-bottom:1px solid #FFE3CA;
+    width: 31%;
+
+}
+/*Hyperlink*/
+a {
+	font-weight: bolder;
+}
+/*The following pseudo-classes code is a copyright of w3schools website. However it has been adopted for learning and assignment purposes.<http://www.w3schools.com/css/tryit.asp?filename=trycss_link>.pseudo-classesNote:a:hover MUST come after a:link and a:visited in the CSS definition in order to be effective.Note:a:active MUST come after a:hover in the CSS definition in order to be effective.*/
+a:link {
+	color:#FFD640;
+	font-weight:bolder;
+}
+a:visited {
+	color: #4ac848;
+}
+a:hover {
+	color:#FFE3CA;
+}
+a:active {
+	color: #EB3A30;
+}
+a:focus {
+	color:#FF6FC0;
+	/*To see which img you've got selected*/
+	padding:1%;
+}
+a:focus:hover {
+	color:#3DF4A5;
+}
+a:focus:hover:active {
+	color: #EB3A30;
+}
+/*Column*/
+.column-half {
+	width:50%;
+	float:left;
+}
+.merge-half {
+	width:23%;
+	float:left;
+}
+.column {
+	float:left;
+	width:21%;
+	background:#2B2A2A;
+	margin:1%;
+	padding:1%;
+}
+.first {
+	clear:both;
+}
+.merge {
+	width:46%;
+}
+.three-quarter {
+	width:71%;
+}
+.full-width {
+	width:96%;
+}
+.column-form {
+	width:75%;
+	margin:auto;
+}
+.column-hof {
+	width:73%;
+	margin: auto;
+}
+/*Register*/
+/*The code below is a copyright of RMIT Web Programming Course Readings. However it has been adopted for learning and assignment purposes.*/
+.label {
+	float:left;
+	/*.button right margin must match this width*/
+	width:25%;
+	max-width:30%;
+}
+.wide-label {
+	width:50%;
+	max-width:60%;
+}
+.qty-buttons {
+float:right;
+margin-right:50%;
+}
+input {
+	width:25%;
+	max-width:30%;
+	margin-bottom:0.5%;
+}
+textarea {
+	width:25%;
+	max-width:30%;
+}
+.required {
+	color:#EB3A30;
+}
+.optional {
+	color:#7feb30;
+	font-size:12px;
+	vertical-align:top;
+}
+.button {
+	margin:1% 0% 0% 25%;
+	width:10%;
+	height:30px;
+}
+.wide-button {
+	width:15%;
+}
+.radio {
+	width:5%;
+}
+.radio-container {
+	float:left;
+	width:26%;
+	max-width: 30%;
+}
+/*Video*/
+/*The frameborder attribute on the iframe element is obsolete. Use CSS instead.*/
+iframe {
+	border: 0;
+}
+/*Credit Card*/
+/*The following code is a copyright of the website:
+<http://jqueryvalidation.org/creditcard-method/>.
+However it has been adopted for learning and assignment purposes.*/
+input { border: 1px solid black; margin-bottom: .5em;  }
+input.error { border: 1px solid red; }
+label.error {
+    background: url('../img/unchecked.gif') no-repeat;
+    padding-left: 16px;
+    margin-left: .3em;
+}
+label.valid {
+    background: url('../img/checked.gif') no-repeat;
+    width: 16px;
+    height: 16px;
+}

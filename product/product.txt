@@ -1,0 +1,9 @@
+category|id|name|desc|price|
+hobbit-film|hobbit-1-ee-3dbd|Hobbit Extended Edition 3D Blu-ray|Extended edition includes scenes cut from the theatrical release. 182 minutes. Blu-ray 3D &amp; UltraViolet Digital Copy (5 disc).|39.95|
+hobbit-film|hobbit-1-ee-bd|Hobbit Extended Edition Blu-ray|Extended edition includes scenes cut from the theatrical release. 182 minutes. Blu-ray &amp; UltraViolet Digital Copy (3 disc).|24.95|
+hobbit-film|hobbit-1-ee-dvd|Hobbit Extended Edition DVD|Extended edition includes scenes cut from the theatrical release. 182 minutes. DVD &amp; UltraViolet Digital Copy.|22.95|
+hobbit-film|hobbit-1-dvd|Hobbit Special Edition DVD|182 minutes. DVD &amp; UltraViolet Digital Copy|8.95|
+lotr-film|lotr-fellowship-ring-bd|Fellowship of the Ring Blu-ray|208 minutes. BD Muti-Disc (3-6 disc). Assisted by a Fellowship of heroes, Frodo Baggins plunges into a perilous trek to take the mystical One Ring to Mount Doom so that it and its magical powers can be destroyed and never possessed by evil Lord Sauron.|24.95|
+lotr-film|lotr-two-towers-bd|The Two Towers Blu-ray|223 minutes. BD Muti-Disc (3-6 disc). Frodo and Samwise press on toward Mordor. Gollum insists on being the guide. Can anyone so corrupted by the ring be trusted?|24.95|
+lotr-film|lotr-return-king-bd|Return of the King Blu-ray|250 minutes. BD Muti-Disc (3-6 disc). It is time for Frodo to overcome the wickedness of Gollum, the horrifying attack of the colossal arachnid Shelob and the soul-twisting allure of a ring that resists destruction.|24.95|
+jewelry|one-ring|The Lord of the Rings: The One Ring|Gold Plated Tungsten Carbide with Elvish Runes by Weta. The One Ring created for The Lord of the Rings trilogy was designed and made by Jens Hansen - Gold &amp; Silversmith of Nelson, New Zealand.|109.95|

@@ -1,0 +1,7 @@
+
+# HTID:1982241: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:1982241:
+
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
