@@ -11,8 +11,8 @@ else {$title = $current;} ?>
 <title>The Hobbit: The Desolation of Smaug</title>
 <link rel= "stylesheet" href= "css/reset.css" type= "text/css" />
 <link rel="stylesheet" href="css/style.css" type="text/css" />
-<link href='http://fonts.googleapis.com/css?family=Almendra:700,400' rel='stylesheet' type='text/css' />
-<link href='http://fonts.googleapis.com/css?family=Merriweather+Sans' rel='stylesheet' type='text/css' />
+<link href='https://fonts.googleapis.com/css?family=Almendra:700,400' rel='stylesheet' type='text/css' />
+<link href='https://fonts.googleapis.com/css?family=Merriweather+Sans' rel='stylesheet' type='text/css' />
 <!--scripts-->
 <?php
 if ($current == 'checkout') {
@@ -50,4 +50,4 @@ elseif ($current == 'hall-of-fame') {
          Tolkien, film, movie, fantasy, sci-fi, cinema, warner bros,
          warner bros pictures, wb, warner brothers, new line, new line
          cinema"/>
-<link rel="icon" type="image/png" href="http://thehobbit.hostoi.com/img/favicon.ico" />
+<link rel="icon" type="image/png" href="favicon.ico" />
