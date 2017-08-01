@@ -24,11 +24,6 @@ if ($current == 'checkout') {
 elseif ($current == 'gallery') {
       echo '<script type="text/javascript" src="script/gallery.js"></script>';
 	  }
-elseif ($current == 'hall-of-fame') {
-	echo '<script type="text/javascript" src="script/gallery.js"></script>
-	<script type="text/javascript" src="script/prototype.js"></script>
-	<script type="text/javascript" src="script/scriptaculous.js"></script>';
-	}
 /*elseif ($current == 'register') {
 	echo '<script type="text/javascript" src="js/register.js"></script>';
 	}*/

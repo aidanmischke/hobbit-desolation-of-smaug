@@ -72,7 +72,7 @@ require_once('include/header.php');
     <div class="column-form">
     <form action='' method='post'>
         <div><span class="label">Username:</span>
-        <input name="username" id="username" type="text" value='' /></div>
+        <input name="username" id="username" type="text" value='demo' /></div>
         <?php if(isset($error['username'])) { ?>
 
             <div class="error" id="usernameError"> <?php if (isset($error['username'])) {
@@ -81,7 +81,7 @@ require_once('include/header.php');
         <?php } ?>
 
         <div><span class="label">Password:</span>
-            <input name="password" id="password" type="password" value='' /></div>
+            <input name="password" id="password" type="password" value='password11' /></div>
         <?php if(isset($error['password'])) { ?>
 
             <div class="error" id="passwordError"> <?php if (isset($error['password'])) {

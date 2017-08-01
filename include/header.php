@@ -63,8 +63,6 @@ However it has been adopted for learning and assignment purposes.-->
 '<li><a href= "gallery.php" title="Photo Gallery">Gallery</a></li>';?>
  <?php echo ($current == 'video') ? '<li class="current" title="The Hobbit film trailer">Video</li>' :
 '<li><a href= "video.php" title="The Hobbit film trailer">Video</a></li>';?>
- <?php echo ($current == 'hall-of-fame') ? '<li class="current" title="An animation about the Lord of the Rings Trilogy">Hall of Fame</li>' :
-	'<li><a href= "hall-of-fame.php" title="An animation about the Lord of the Rings Trilogy">Hall of Fame</a></li>';?>
  </ul>
 </div>
 <!--end of header-->

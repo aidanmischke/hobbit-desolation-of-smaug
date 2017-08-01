@@ -1,0 +1,2 @@
+firstname|lastname|username|password|phone|email|membership|duration|
+DemoFirstName|DemoLastName|demo|1e5c2776cf544e213c3d279c40719643|0411222333|demo@mail.com|Mithril|Lifetime|

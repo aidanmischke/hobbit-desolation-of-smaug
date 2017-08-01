@@ -192,8 +192,6 @@ a:active {
 }
 a:focus {
 	color:#FF6FC0;
-	/*To see which img you've got selected*/
-	padding:1%;
 }
 a:focus:hover {
 	color:#3DF4A5;

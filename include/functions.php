@@ -352,22 +352,3 @@ function displayProduct($PRODUCT, $category)
 }
 
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
